@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="micro4tricks — free, bilingual tools for learning and daily focus">
+  <style>
+    .bg{fill:#f4f5f2}.card{fill:#ffffff;stroke:#dfe4dc}.ink{fill:#26332b}.muted{fill:#5d6b62}.accent{fill:#3f8f63}.accent2{fill:#c4502b}.chip{fill:#e7f1ea}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}.sans{font-family:"Segoe UI",system-ui,-apple-system,Tahoma,Arial,sans-serif}.grid{stroke:#e3e7e1}
+    @media (prefers-color-scheme: dark){
+      .bg{fill:#0d1117}.card{fill:#161b22;stroke:#30363d}.ink{fill:#e6edf3}.muted{fill:#9aa7a0}.accent{fill:#56c08a}.accent2{fill:#f0845c}.chip{fill:#1b2a22}.grid{stroke:#1c232b}
+    }
+  </style>
+  <rect class="bg" width="1200" height="300" rx="18"/>
+  <g class="grid" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/>
+  </g>
+  <rect class="chip" x="64" y="52" width="286" height="34" rx="17"/>
+  <text class="mono accent" x="84" y="75" font-size="16">$ learn --build --share --free</text>
+  <text class="sans ink" x="64" y="148" font-size="56" font-weight="700">micro4tricks</text>
+  <text class="sans muted" x="64" y="192" font-size="22">Free, bilingual (Arabic / English) web tools for learning and daily focus.</text>
+  <text class="sans muted" x="64" y="226" font-size="22" direction="ltr">n8n · Technical English · Productivity · PWA / Android</text>
+  <g transform="translate(900 60)">
+    <rect class="card" width="236" height="180" rx="16" stroke-width="1.5"/>
+    <circle class="accent2" cx="26" cy="26" r="6"/><circle class="accent" cx="46" cy="26" r="6"/><circle class="muted" cx="66" cy="26" r="6" opacity=".5"/>
+    <text class="mono muted" x="22" y="68" font-size="15">const me = {</text>
+    <text class="mono ink" x="40" y="94" font-size="15">builds: <tspan class="accent">"web apps"</tspan>,</text>
+    <text class="mono ink" x="40" y="120" font-size="15">langs: [<tspan class="accent">"ar"</tspan>, <tspan class="accent">"en"</tspan>],</text>
+    <text class="mono ink" x="40" y="146" font-size="15">price: <tspan class="accent2">0</tspan></text>
+    <text class="mono muted" x="22" y="170" font-size="15">};</text>
+  </g>
+</svg>
