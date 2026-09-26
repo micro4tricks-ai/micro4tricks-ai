@@ -26,7 +26,7 @@ I build **free, bilingual web tools** that run entirely in the browser — no si
   <tr>
     <td width="50%" valign="top">
       <a href="https://micro4tricks-ai.github.io/muslim-todo-list/"><img src="assets/muslim-todo-list.png" alt="Muslim To-Do List screenshot"></a>
-      <h3>🕌 <a href="https://github.com/micro4tricks-ai/muslim-todo-list">Muslim To-Do List</a></h3>
+      <h3><img src="https://raw.githubusercontent.com/micro4tricks-ai/muslim-todo-list/main/docs/logo.svg" width="28" height="28" align="absmiddle" alt=""> <a href="https://github.com/micro4tricks-ai/muslim-todo-list">Muslim To-Do List</a></h3>
       <p>Tasks planned around prayer times, a watch-face clock with the Hijri date and moon phase, a Pomodoro focus mode, habits, adhkar, review cards and focus sounds. Syncs across devices; installs as a PWA or an Android app.</p>
       <p dir="rtl">مهام مرتّبة حول أوقات الصلاة، وساعة بالتاريخ الهجري وطور القمر، ووضع تركيز، وعادات وأذكار وأصوات تركيز.</p>
       <p>
@@ -36,7 +36,7 @@ I build **free, bilingual web tools** that run entirely in the browser — no si
     </td>
     <td width="50%" valign="top">
       <a href="https://micro4tricks-ai.github.io/learn-n8n-english/"><img src="assets/learn-n8n-english.png" alt="Developer Journey screenshot"></a>
-      <h3>⚙️ <a href="https://github.com/micro4tricks-ai/learn-n8n-english">Developer Journey · رحلة المبرمج</a></h3>
+      <h3><img src="https://raw.githubusercontent.com/micro4tricks-ai/learn-n8n-english/main/assets/logo.svg" width="28" height="28" align="absmiddle" alt=""> <a href="https://github.com/micro4tricks-ai/learn-n8n-english">Developer Journey · رحلة المبرمج</a></h3>
       <p>Two learning plans in one site: <b>n8n automation</b> with JavaScript, Python, SQL, Docker and AI, and <b>technical English</b> for developers. Each starts with a 7-day intensive week, then a 12-week plan, with quizzes, flashcards and a library of 135+ free sources.</p>
       <p dir="rtl">خطتان: أتمتة n8n واللغات المرتبطة بها، والإنجليزية التقنية للمبرمجين.</p>
       <p><a href="https://micro4tricks-ai.github.io/learn-n8n-english/"><b>Start learning →</b></a></p>
@@ -45,7 +45,7 @@ I build **free, bilingual web tools** that run entirely in the browser — no si
   <tr>
     <td width="50%" valign="top">
       <a href="https://micro4tricks-ai.github.io/programmer-english/"><img src="assets/programmer-english.png" alt="Programmer English screenshot"></a>
-      <h3>📘 <a href="https://github.com/micro4tricks-ai/programmer-english">Programmer English · إنجليزي المبرمج</a></h3>
+      <h3><img src="https://raw.githubusercontent.com/micro4tricks-ai/programmer-english/main/assets/logo.svg" width="28" height="28" align="absmiddle" alt=""> <a href="https://github.com/micro4tricks-ai/programmer-english">Programmer English · إنجليزي المبرمج</a></h3>
       <p>The English a developer needs every day, on one page: error messages, docs, READMEs, commits, code review, emails and interviews. 430+ words with audio, 20 worked texts, quizzes and a 12-week plan.</p>
       <p dir="rtl">الإنجليزية التي يحتاجها المبرمج يومياً: رسائل الأخطاء والتوثيق والمراسلات والمقابلات.</p>
       <p><a href="https://micro4tricks-ai.github.io/programmer-english/"><b>Open the page →</b></a></p>
