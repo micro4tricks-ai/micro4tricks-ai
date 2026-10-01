@@ -37,8 +37,8 @@ I build **free, bilingual web tools** that run entirely in the browser — no si
     <td width="50%" valign="top">
       <a href="https://micro4tricks-ai.github.io/learn-n8n-english/"><img src="assets/learn-n8n-english.png" alt="Developer Journey screenshot"></a>
       <h3><img src="https://raw.githubusercontent.com/micro4tricks-ai/learn-n8n-english/main/assets/logo.svg" width="28" height="28" align="absmiddle" alt=""> <a href="https://github.com/micro4tricks-ai/learn-n8n-english">Developer Journey · رحلة المبرمج</a></h3>
-      <p>Two learning plans in one site: <b>n8n automation</b> with JavaScript, Python, SQL, Docker and AI, and <b>technical English</b> for developers. Each starts with a 7-day intensive week, then a 12-week plan, with quizzes, flashcards, 880+ English words with audio, 117 grammar rules and a library of 150+ free sources.</p>
-      <p dir="rtl">خطتان: أتمتة n8n واللغات المرتبطة بها، والإنجليزية التقنية للمبرمجين.</p>
+      <p>Three free 24-week journeys in one site: <b>n8n automation</b> with JavaScript, SQL, Docker and AI; <b>Python for automation and the web</b> (files, Excel, APIs, scraping, HTML/CSS/JS, FastAPI, LLMs and MCP) with code you run right on the page; and <b>technical English</b> for developers. Daily lessons, weekly tests, monthly exams, spaced review, a lab and a library of 700+ free sources.</p>
+      <p dir="rtl">ثلاث رحلات: أتمتة n8n، وبايثون للأتمتة والويب، والإنجليزية التقنية للمبرمجين.</p>
       <p><a href="https://micro4tricks-ai.github.io/learn-n8n-english/"><b>Start learning →</b></a></p>
     </td>
   </tr>
@@ -47,7 +47,7 @@ I build **free, bilingual web tools** that run entirely in the browser — no si
       <h3>✨ What they share</h3>
       <ul>
         <li>🌐 <b>Arabic ⇄ English</b> with full RTL / LTR layout</li>
-        <li>🔒 <b>Private by default</b> — progress stays in your browser</li>
+        <li>🔒 <b>Private by default</b> — progress stays in your browser (optional sign-in to sync)</li>
         <li>⚡ <b>No build step</b> — plain HTML, CSS and JavaScript</li>
         <li>📱 <b>Mobile first</b> — works on phones, tablets and desktops</li>
         <li>💸 <b>Free</b> — hosted on GitHub Pages, no paywalls</li>
