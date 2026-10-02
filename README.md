@@ -27,8 +27,8 @@ I build **free, bilingual web tools** that run entirely in the browser — no si
     <td width="50%" valign="top">
       <a href="https://micro4tricks-ai.github.io/muslim-todo-list/"><img src="assets/muslim-todo-list.png" alt="Muslim To-Do List screenshot"></a>
       <h3><img src="https://raw.githubusercontent.com/micro4tricks-ai/muslim-todo-list/main/docs/logo.svg" width="28" height="28" align="absmiddle" alt=""> <a href="https://github.com/micro4tricks-ai/muslim-todo-list">Muslim To-Do List</a></h3>
-      <p>Tasks planned around prayer times, a watch-face clock with the Hijri date and moon phase, a Pomodoro focus mode, habits, adhkar, review cards and focus sounds. Syncs across devices; installs as a PWA or an Android app.</p>
-      <p dir="rtl">مهام مرتّبة حول أوقات الصلاة، وساعة بالتاريخ الهجري وطور القمر، ووضع تركيز، وعادات وأذكار وأصوات تركيز.</p>
+      <p>The Quran with 9 tafsirs, a hadith library of 17 books, Quran radio and ad-free live TV from Makkah and Madinah, the adhan on time, adhkar, a Hijri calendar with Sunnah reminders, and tasks and focus around the prayers. Free, no ads; Arabic and English; an Android app with a native player, and a PWA.</p>
+      <p dir="rtl">المصحف بـ٩ تفاسير، ومكتبة حديث من ١٧ كتاباً، وإذاعات القرآن والبث المباشر من الحرمين بلا إعلانات، والأذان في وقته، والأذكار، والتقويم الهجري بتنبيهات السنن، والمهام والتركيز حول الصلاة. مجاني بلا إعلانات — صدقة جارية.</p>
       <p>
         <a href="https://micro4tricks-ai.github.io/muslim-todo-list/"><b>Open the app →</b></a> ·
         <a href="https://github.com/micro4tricks-ai/muslim-todo-list/releases/latest">Android APK</a>
