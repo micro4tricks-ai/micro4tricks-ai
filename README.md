@@ -37,8 +37,8 @@ I build **free, bilingual web tools** that run entirely in the browser — no si
     <td width="50%" valign="top">
       <a href="https://micro4tricks-ai.github.io/learn-n8n-english/"><img src="assets/learn-n8n-english.png" alt="Developer Journey screenshot"></a>
       <h3><img src="https://raw.githubusercontent.com/micro4tricks-ai/learn-n8n-english/main/assets/logo.svg" width="28" height="28" align="absmiddle" alt=""> <a href="https://github.com/micro4tricks-ai/learn-n8n-english">Developer Journey · رحلة المبرمج</a></h3>
-      <p>Three free 24-week journeys in one site: <b>n8n automation</b> with JavaScript, SQL, Docker and AI; <b>Python for automation and the web</b> (files, Excel, APIs, scraping, HTML/CSS/JS, FastAPI, LLMs and MCP) with code you run right on the page; and <b>technical English</b> for developers. Daily lessons, weekly tests, monthly exams, spaced review, a lab and a library of 700+ free sources.</p>
-      <p dir="rtl">ثلاث رحلات: أتمتة n8n، وبايثون للأتمتة والويب، والإنجليزية التقنية للمبرمجين.</p>
+      <p>Four free 12-month journeys in one site: <b>n8n automation</b> with JavaScript, SQL, Docker and AI; <b>Python for automation and the web</b> (files, Excel, APIs, scraping, FastAPI, LLMs and MCP) with code you run right on the page; <b>JavaScript and the web</b> (HTML, CSS, the DOM, Node.js, TypeScript and Playwright); and <b>technical English</b> for developers. Daily lessons, weekly tests, monthly exams, spaced review, a lab and a library of 800+ free sources.</p>
+      <p dir="rtl">أربع رحلات، كل واحدة 12 شهراً: أتمتة n8n، وبايثون للأتمتة والويب، وجافاسكريبت والويب، والإنجليزية التقنية للمبرمجين.</p>
       <p><a href="https://micro4tricks-ai.github.io/learn-n8n-english/"><b>Start learning →</b></a></p>
     </td>
   </tr>
