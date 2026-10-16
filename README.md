@@ -25,13 +25,14 @@ I build **free, bilingual web tools** that run entirely in the browser — no si
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://micro4tricks-ai.github.io/muslim-todo-list/"><img src="assets/muslim-todo-list.png" alt="Muslim To-Do List screenshot"></a>
-      <h3><img src="https://raw.githubusercontent.com/micro4tricks-ai/muslim-todo-list/main/docs/logo.svg" width="28" height="28" align="absmiddle" alt=""> <a href="https://github.com/micro4tricks-ai/muslim-todo-list">Muslim To-Do List</a></h3>
-      <p>The Quran with 9 tafsirs, a hadith library of 17 books, Quran radio and ad-free live TV from Makkah and Madinah, the adhan on time, adhkar, a Hijri calendar with Sunnah reminders, and tasks and focus around the prayers. Free, no ads; Arabic and English; an Android app with a native player, and a PWA.</p>
-      <p dir="rtl">المصحف بـ٩ تفاسير، ومكتبة حديث من ١٧ كتاباً، وإذاعات القرآن والبث المباشر من الحرمين بلا إعلانات، والأذان في وقته، والأذكار، والتقويم الهجري بتنبيهات السنن، والمهام والتركيز حول الصلاة. مجاني بلا إعلانات — صدقة جارية.</p>
+      <a href="https://micro4tricks-ai.github.io/muslim-todo-list/"><img src="assets/muslim-todo-list.png" alt="Muslim Activity screenshot: the prayer clock and the Listen tab"></a>
+      <h3><img src="https://raw.githubusercontent.com/micro4tricks-ai/muslim-todo-list/main/docs/logo.svg" width="28" height="28" align="absmiddle" alt=""> <a href="https://github.com/micro4tricks-ai/muslim-todo-list">Muslim Activity · مهام المسلم</a></h3>
+      <p>The Quran with tafsir and recitation, 177 Quran radio stations and 241 reciters, ad-free live TV from Makkah and Madinah, a hadith library, the adhan on time, adhkar, qibla, Ramadan, a Hijri calendar with Sunnah reminders, and tasks and focus around the prayers. Free, no ads; Arabic and English; Android, Windows and Mac apps, and a PWA.</p>
+      <p dir="rtl">المصحف بالتفسير والتلاوة، و١٧٧ إذاعة قرآن و٢٤١ قارئاً، والبث المباشر من الحرمين بلا إعلانات، ومكتبة الحديث، والأذان في وقته، والأذكار، والقبلة، ورمضان، والتقويم الهجري بتنبيهات السنن، والمهام والتركيز حول الصلاة. مجاني بلا إعلانات، على أندرويد وويندوز وماك — صدقة جارية.</p>
       <p>
         <a href="https://micro4tricks-ai.github.io/muslim-todo-list/"><b>Open the app →</b></a> ·
-        <a href="https://github.com/micro4tricks-ai/muslim-todo-list/releases/latest">Android APK</a>
+        <a href="https://github.com/micro4tricks-ai/muslim-todo-list/releases/latest">Android APK</a> ·
+        <a href="https://github.com/micro4tricks-ai/muslim-todo-list/releases?q=desktop">Windows / Mac</a>
       </p>
     </td>
     <td width="50%" valign="top">
